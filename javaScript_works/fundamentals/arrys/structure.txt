@@ -1,0 +1,12 @@
+Data stucturing
+liner ds
+   sequantial oder (consicutive memory location)
+    arrys
+    stack
+    queue ds
+    linked list
+nonliner ds 
+    non sequantial oder
+        tree
+        graph
+

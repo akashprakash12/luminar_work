@@ -1,0 +1,34 @@
+1)coding stander
+2)identifires
+3)veriables
+4)operators
+#fllowcontrols
+1)decision making statement
+2)looping
+#functions
+1)arrow functions
+2)call stack
+#arrays
+1)progams
+2)array methods
+#object
+1)programs
+2)hoisting
+3)coersion
+4)prototypal inheritence
+5)closures
+#oop
+1)inheritence
+2)polymorphisem
+#dom
+1)properties and methods
+2)apis  postman
+3)xmlhttprequest
+4)fetch
+5)event loop,call back
+6)promises
+7)async await
+#eror handiling
+
+get_name()=> python snake notation
+getName()=>cpp,java,javaScript  camel case
